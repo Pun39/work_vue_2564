@@ -12,6 +12,9 @@
 
 <style >
  .bg{
-   background-color: #0989ff;
- }
+ /* background-color: #0989ff;
+*/
+background:url('../assets/img/260888284_429380271961659_6032847227480097573_n.jpg');
+background-size: cover ;
+height: 100vh; }
 </style>
